@@ -103,5 +103,5 @@
   },
   "include": [
     "src/**/*.ts" // Adjust this pattern to include the correct files
-  ]
+  ],
 }
